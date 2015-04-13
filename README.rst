@@ -444,6 +444,24 @@ Examples
     >>> len(match.pieces)
     10
 
+Extra Credit Opportunity
+========================
+
+While this exercise only had you create the three different pieces, you may
+earn two points of extra credit for each additional type of chess piece you
+create including:
+
+-   Pawns
+
+-   Knights
+
+-   Queens
+
+Pieces must reflect the correct movement rules of their piece including the
+Pawn's first-move advantage. To ensure that your tests still run correctly, do
+not add these pieces to the default starting position in the ``reset()``
+function.
+
 Executing Tests
 ===============
 
